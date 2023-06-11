@@ -1,0 +1,29 @@
+.container{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(22, 54, 82);
+    margin: auto;
+    text-align: center; 
+}
+h2{
+    padding-top: 10px;
+    color: white;
+}
+input{
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#btn{
+    padding: 8px;
+    width: 20%;
+    font-size: 15px;
+    background-color: rgb(74, 231, 255);
+    color: rgb(255, 13, 13);
+    border: none;
+    border-radius: 5px;
+}
+h3{
+  color: white;  
+}
